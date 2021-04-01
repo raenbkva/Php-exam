@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap%27');
+
+.nav {
+	background: rgb(69, 29, 92);
+}
+
+.nav__link {
+	transition: .7s;
+}
+
+.nav__link:hover {
+	background: rgb(214, 156, 231);
+	transition: .7s;
+}
+
+.log {
+	border: solid 2px #3e0071;
+	background: rgba(83, 0, 238, 0.27);
+	width: 90px;
+	height: 60px;
+}
